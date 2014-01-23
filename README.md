@@ -2,10 +2,10 @@
 
 ## Learning Competencies
 
-* can discern difference between markup and presentation
-* can edit presentation layer to achieve a new layout
-* can position using css float
-* can describe the characteristics of the box model
+* discern difference between markup and presentation
+* edit presentation layer to achieve a new layout
+* position using css float
+* describe the characteristics of the box model
 
 ## Summary
 
